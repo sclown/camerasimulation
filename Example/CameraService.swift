@@ -1,7 +1,3 @@
-//
-//  CameraService.swift
-//
-
 import AVFoundation
 import UIKit
 

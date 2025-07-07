@@ -1,8 +1,3 @@
-//
-//  VideoRecorder.swift
-//  Example
-//
-
 import AVFoundation
 
 public class VideoRecorder {
@@ -15,7 +10,6 @@ public class VideoRecorder {
         try? FileManager.default.removeItem(at: videoOutputURL)
         assetWriter = try AVAssetWriter(outputURL: videoOutputURL, fileType: .mp4)
         
-        // Ensure width and height are positive integers
         let width = max(Int(size.width), 1)
         let height = max(Int(size.height), 1)
         

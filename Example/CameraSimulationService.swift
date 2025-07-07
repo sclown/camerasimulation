@@ -1,7 +1,3 @@
-//
-//  CameraSimulationService.swift
-//
-
 import CameraSimulation
 import UIKit
 

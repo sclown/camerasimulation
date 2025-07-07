@@ -1,7 +1,3 @@
-//
-//  CameraSmartProtocol.swift
-//
-
 import UIKit
 
 protocol CameraSmartProtocol {

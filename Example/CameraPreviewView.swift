@@ -1,7 +1,3 @@
-//
-//  CameraPreviewView.swift
-//
-
 import SwiftUI
 
 struct CameraPreviewView: UIViewRepresentable {

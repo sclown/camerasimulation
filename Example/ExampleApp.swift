@@ -1,10 +1,3 @@
-//
-//  ExampleApp.swift
-//  Example
-//
-//  Created by Dmitry Kurkin on 09.04.25.
-//
-
 import SwiftUI
 import AVFoundation
 

@@ -1,7 +1,3 @@
-//
-//  PhotoCameraView.swift
-//
-
 import SwiftUI
 
 struct PhotoCameraView: View {

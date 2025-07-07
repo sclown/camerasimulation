@@ -1,7 +1,3 @@
-//
-//  CameraSimulationLayer.swift
-//
-
 import AVFoundation
 import ImageGenerator
 import UIKit
