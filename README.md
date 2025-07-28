@@ -6,15 +6,15 @@ CameraSimulation is a Swift package that enables camera functionality in iOS Sim
 - Simulate camera preview with CALayer
 - Capture "photo" (snapshot) and video from the preview
 - Creates repeatable content for tests
-
-![camera preview](doc/screen1.png "camera preview"){width=30%} ![recording](doc/screen2.png "recording"){width=30%} ![result](doc/screen3.png "recorded video"){width=30%}
+- 
+<img src="doc/screen1.png" width="30%"> <img src="doc/screen2.png" width="30%"> <img src="doc/screen3.png" width="30%">
 
 ## Installation
 
 Add CameraSimulation to your `Package.swift` dependencies:
 
 ```swift
-.package(url: "https://gitlab.com/xymatic-public/camerasimulation.git", from: "0.2.0")
+.package(url: "https://githab.com/sclown/camerasimulation.git", from: "0.2.0")
 ```
 
 Or use Xcode's Swift Package Manager integration:
